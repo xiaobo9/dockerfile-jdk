@@ -1,1 +1,1 @@
-# docker-thunisoft-jdk
+# dockerfile-jdk
