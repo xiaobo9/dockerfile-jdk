@@ -1,3 +1,3 @@
-# dockerfile-jdk
+# dockerfile
 
 docker hub
